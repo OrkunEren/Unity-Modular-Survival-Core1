@@ -1,0 +1,4 @@
+repository "Glass Carry 2025-11-27_04-25-12/Unity-Modular-Survival-Core@18967764966474@cloud"
+  path "/"
+    br "/main"
+    co "/main"
