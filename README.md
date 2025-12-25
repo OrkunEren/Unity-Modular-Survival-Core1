@@ -2,7 +2,7 @@ README.md
 # Unity Modular Survival Core
 ### Scalable, Event-Driven Survival Engine Prototype
 
-![Unity](https://img.shields.io/badge/Unity-2022.3%2B-black?style=flat&logo=unity)
+![Unity](https://img.shields.io/badge/Unity-6.2%2B-black?style=flat&logo=unity)
 ![C#](https://img.shields.io/badge/C%23-10.0-blue?style=flat&logo=csharp)
 ![Architecture](https://img.shields.io/badge/Architecture-Event--Driven-green)
 ![Status](https://img.shields.io/badge/Status-Prototype-orange)
@@ -69,3 +69,15 @@ This project is intended for educational and prototyping purposes only.
 Audio Assets: Third-party sound effects are used as placeholders to demonstrate the AudioManager functionality. All rights belong to their respective owners.
 
 Commercial Use: This codebase is not intended for commercial release in its current state containing these assets.
+
+🚀 Getting Started
+Clone the repository:
+
+Bash
+
+git clone [https://github.com/OrkunEren/Unity-Modular-Survival-Core.git](https://github.com/OrkunEren/Unity-Modular-Survival-Core.git)
+Open in Unity 6 (6000.0+) or later.
+
+Open the MainScene to observe the WeatherManager in action.
+
+Developed by a Computer Engineering Student passionate about System Architecture in Games.
